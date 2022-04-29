@@ -39,6 +39,22 @@ img {
 	max-width: 300px;
 }
 
+#hear-about {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+#howd-hear {
+	text-align: center;
+}
+
+.about {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 /* Profile styles */
 
 .profile-head {
@@ -69,3 +85,11 @@ img {
 	width: 110px;
 	background-color: yellow;
 }
+
+#res-btn-sec {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
